@@ -33,3 +33,14 @@
 ### Reduces bugs by catching incorrect data usage at compile-time.
 ### Makes the codebase more reliable, scalable, and easier to collaborate on.
 ### Ensures predictable behavior across the project.
+
+### Vite (vite.config.ts)
+### Vite is the development server and build tool powering your project.
+### vite.config.ts:
+### Configures project settings for Vite, including plugins, paths, and environment variables.
+### Optimizes how your project is bundled for production.
+
+### ✔ Benefits in SoulLink:
+### Instant server startup with Hot Module Replacement (HMR), meaning code changes reflect instantly in the browser.
+### Lightning-fast builds for deploying optimized, production-ready code.
+### Reduces development time with efficient tooling.
