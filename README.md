@@ -13,6 +13,23 @@
 ### Contains the main structure of your user interface.
 ### Defines layout, controls the display of dynamic content, and manages how users interact with different parts of the app.
 ### Serves as the root component that organizes child components (if any) and handles rendering logic.
+
+
 ### ✔ Benefits in SoulLink:
 ### Allows for dynamic, real-time updates of UI without page reloads.
 ### Makes the application modular and maintainable through reusable components.
+
+### TypeScript (types.ts, other .tsx files)
+### TypeScript is a typed superset of JavaScript, adding strict typing to your project.
+### types.ts:
+### Defines custom types and interfaces for the project.
+### Ensures that objects like configuration files, data models, or component props follow a consistent structure.
+### Prevents accidental errors, like passing incorrect data formats.
+### In other .tsx files:
+### Provides type definitions for component properties, state, and external data.
+### Enhances code editor support with autocomplete, suggestions, and error detection.
+
+### ✔ Benefits in SoulLink:
+### Reduces bugs by catching incorrect data usage at compile-time.
+### Makes the codebase more reliable, scalable, and easier to collaborate on.
+### Ensures predictable behavior across the project.
