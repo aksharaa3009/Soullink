@@ -104,3 +104,16 @@
 ### Promotes clean, organized code.
 ### Makes the project maintainable and easy to update.
 ### Separates data from logic, improving scalability.
+
+## How to Use SoulLink
+### Start the Link
+### Visit the SoulLink webpage and click “Begin Your Journey.”
+### Take the Personality Quiz
+### Answer a series of thought-provoking questions designed to uncover your true traits, strengths, and hidden shadows.
+### Meet Your Character Match
+### Get matched with a unique SoulLink character that reflects your inner self — your archetype, strengths, and growth path.
+### Explore Your Profile
+### Dive into your personality breakdown, discover your dominant traits, and see how they influence your choices and relationships.
+### Connect & Share
+### Compare your SoulLink with friends, explore compatibility, and share your character on social media.
+
